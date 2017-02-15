@@ -1,0 +1,8 @@
+logs/*
+!logs/.gitkeep
+target/*
+!target/.gitkeep
+nohup.out
+*.log
+*.tsv
+*.png
